@@ -1,0 +1,15 @@
+.detail {
+    text-align: center;
+}
+
+.detail img {
+    width: 100%;
+}
+
+.detail h1 {
+    font-size: 2rem;
+}
+
+.detail address {
+    color: darkorange;
+}
